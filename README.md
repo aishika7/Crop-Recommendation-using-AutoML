@@ -1,4 +1,4 @@
-# 🌱 Crop Recommendation System using IBM Cloud
+# 🌱 Crop Recommendation System using AutoML IBM Cloud
 
 ## 📌 Project Overview
 This project is a **Crop Recommendation System** built using **IBM Cloud services** (no coding required).  
@@ -71,3 +71,26 @@ This project was completed as part of the **IBM SkillsBuild / IBM Cloud Guided L
 ---
 
 ## 📂 Repository Contents
+```
+
+crop-recommendation-system-ibm/
+│
+├── README.md                # Project documentation
+├── architecture.png          # Architecture diagram
+├── screenshots/              # IBM Cloud screenshots
+│   ├── dataset-upload.png
+│   ├── autoai-training.png
+│   └── model-result.png
+└── presentation.pdf          # Project presentation (optional)
+
+```
+
+---
+
+
+## 🙌 Acknowledgements
+- IBM Cloud Platform  
+- IBM Watson Studio & AutoAI  
+- IBM SkillsBuild / Guided Learning Experience  
+
+---
