@@ -44,8 +44,6 @@ Farmers often struggle to choose the right crop due to:
 - Generated crop recommendations tailored to soil and weather input.  
 - Screenshots of training and results are included below:  
 
-📸 *[Insert your screenshots in `/screenshots` folder]*  
-
 ---
 
 ## 👥 End Users
@@ -69,25 +67,6 @@ Farmers often struggle to choose the right crop due to:
 This project was completed as part of the **IBM SkillsBuild / IBM Cloud Guided Learning Program**.  
 
 ---
-
-## 📂 Repository Contents
-```
-
-crop-recommendation-system-ibm/
-│
-├── README.md                # Project documentation
-├── architecture.png          # Architecture diagram
-├── screenshots/              # IBM Cloud screenshots
-│   ├── dataset-upload.png
-│   ├── autoai-training.png
-│   └── model-result.png
-└── presentation.pdf          # Project presentation (optional)
-
-```
-
----
-
-
 ## 🙌 Acknowledgements
 - IBM Cloud Platform  
 - IBM Watson Studio & AutoAI  
